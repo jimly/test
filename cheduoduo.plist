@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.chedd.com/cheduoduo.ipa?t=2014072923</string>
+					<string>http://test.chedd.com/cheduoduo.ipa?t=20140801</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ukantou.wb.cheduoduo</string>
 				<key>bundle-version</key>
-				<string>1.4</string>
+				<string>1.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
