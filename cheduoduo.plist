@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>icon.png</string>
+					<string>http://test.chedd.com/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.ukantou.wb.cheduoduo</string>
 				<key>bundle-version</key>
-				<string>2.4</string>
+				<string>2.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
